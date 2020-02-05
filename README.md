@@ -1,9 +1,8 @@
 # MiniBokeh - Bokeh dashboard
-> This project is a dashboard visualizing data about relation between fertility, population, child mortality and gdp in some regions overtime. 
+> This project is a dashboard visualizing data about relation between fertility, population, child mortality and gdp in some regions overtime with Bokeh interactive plotting. 
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-This is an exercise from Datacamp sourse: Interactive Data Visualization with Bokeh at 'https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh'. I use this project as a way to summarize my skills after 2 months of studying Python for Data science. 
+This is an exercise from Datacamp sourse: Interactive Data Visualization with Bokeh at 'https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh' ' with some modifications, adding more Bokeh interactive models. I use this project as a way to summarize my skills after 2 months of studying Python for Data science. 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -14,7 +13,7 @@ This is an exercise from Datacamp sourse: Interactive Data Visualization with Bo
 * bokeh 0.12.16
 
 ## Setup
-Open terminal, change directory to location contains minibokeh folder and run: bokeh serve --show minibokeh. This will open a a dashboard in browser at localhost:5006
+Run command: 'bokeh serve --show minibokeh' at directory contains minibokeh folder. This will open a a dashboard in browser at localhost:5006
 
 ## Features
 Give users powerful customization of using dashboard
@@ -30,8 +29,8 @@ To-do list:
 Project is:  _finished_
 
 ## Inspiration
-* The idea comes from: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh with some modifications, adding more Bokeh interactive models
-* Structure of project and modules references https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23 and https://github.com/WillKoehrsen/Bokeh-Python-Visualization
+* The idea comes from: 'https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
+* Structure of project and modules references 'https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23' and 'https://github.com/WillKoehrsen/Bokeh-Python-Visualization'
 
 ## Contact
 Created by Phu Vinh Nguyen (Vinh Nguyen) - feel free to contact me!
