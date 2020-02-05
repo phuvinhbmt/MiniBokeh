@@ -5,7 +5,7 @@
 This is an exercise from Datacamp sourse: Interactive Data Visualization with Bokeh at 'https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh' ' with some modifications, adding more Bokeh interactive models. I use this project as a way to summarize my skills after 2 months of studying Python for Data science. 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Capture0.PNG)
 
 ## Technologies
 * Python 3.8.0
@@ -13,7 +13,8 @@ This is an exercise from Datacamp sourse: Interactive Data Visualization with Bo
 * bokeh 0.12.16
 
 ## Setup
-Run command: 'bokeh serve --show minibokeh' at directory contains minibokeh folder. This will open a a dashboard in browser at localhost:5006
+Run command: 'bokeh serve --show minibokeh' at directory contains minibokeh folder. This will open a a dashboard in browser at 
+'localhost:5006'
 
 ## Features
 Give users powerful customization of using dashboard
