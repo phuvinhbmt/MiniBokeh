@@ -30,8 +30,8 @@ To-do list:
 Project is:  _finished_
 
 ## Inspiration
-The idea comes from: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh with some modifications, adding more Bokeh interactive models
-Structure of project and modules references https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23 and https://github.com/WillKoehrsen/Bokeh-Python-Visualization
+* The idea comes from: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh with some modifications, adding more Bokeh interactive models
+* Structure of project and modules references https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23 and https://github.com/WillKoehrsen/Bokeh-Python-Visualization
 
 ## Contact
 Created by Phu Vinh Nguyen (Vinh Nguyen) - feel free to contact me!
