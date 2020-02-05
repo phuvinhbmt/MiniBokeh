@@ -44,9 +44,7 @@ def plot_tab(data):
         y_value = y_dropdown.value # get value of y_axis drop down
 
         selected_region = [region_selection.labels[i] for i in region_selection.active]
-        print(selected_region)
-        print(type(selected_region))
-
+        
         # update dataset columnsource based on user input
         new_src = make_dataset(x = x_value, y = y_value, year = yr, selected_regions = selected_region ) 
         # if no regions are selected, display plot with previously selected region 
